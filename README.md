@@ -1,5 +1,6 @@
-# Socratic 🦉
+![socratic](https://github.com/AbhinavShimpi19/Socratic/assets/136893204/0979d905-f87b-427f-93b3-42dd7a6b82e2)
 
+# Socratic 🦉
 
 A simple Mathematical utility for Humans
 
