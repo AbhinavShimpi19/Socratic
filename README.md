@@ -58,7 +58,7 @@ If you face any problem, kindly raise an issue
 
 ...
 
-###### Made with ❤️ and 🦙 by Akshay Bahadur
+###### Made with ❤️ and 🦙 by Abhinav Shimpi.
 
 ## References 🔱
  
